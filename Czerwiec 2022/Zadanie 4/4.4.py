@@ -1,3 +1,4 @@
+#plik wyświetla wartość pow1/pow2 niezgodną z kartą odpwoeidzi. Zgodnie z punktacją zadanie jest zrobione na 3/4ptk
 p1=open("dane.txt","r")
 baza=open("dane.txt","r")
 def bazawiersze():
